@@ -1,7 +1,6 @@
 ## Hey, I am Bruna Nascimento.
 
 * 🌱 I’m currently learning HTML, CSS and JavaScript
-* 📫 How to reach me: qbrubs@hotmail.com
 * 😄 Pronouns: she/her
 
 <div align="center">
